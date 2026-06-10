@@ -150,7 +150,9 @@ Pass_Fail                     0
 
 
 <img width="486" height="353" alt="image" src="https://github.com/user-attachments/assets/f31106cf-5f4f-4ddb-9b49-3888808a00dd" />
+
 <img width="430" height="457" alt="image" src="https://github.com/user-attachments/assets/e5d9121a-e722-4fe2-988f-51106ffdf014" />
+
 <img width="893" height="402" alt="image" src="https://github.com/user-attachments/assets/32e243a4-2f6f-4899-b3e0-7dded2c55553" />
 
 
@@ -162,6 +164,7 @@ Accuracy Score
 Classification Report
 Feature Importance Analysis
 Visual Graphs
+
 Author:
 
 Veeramanikandan.S
